@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T14:31:45.848Z'
-dateModified: '2016-04-12T14:30:07.447Z'
+datePublished: '2016-04-12T14:35:23.152Z'
+dateModified: '2016-04-12T14:31:53.432Z'
 title: ''
 author: []
 authors: []
@@ -25,3 +25,7 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68771c606b45ce0e96674d527e32b710a1ff0827.png)
 
 Media Solutions Insider
+
+This month we begin the Media Solutions Insider informational Blog. This will be a medium to keep the Media Teams informed of upcoming tech, gear, and procedures.
+
+We look forward to your input and comments.
