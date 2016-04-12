@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Media Solutions Insider News]]></title>
+        <description><![CDATA[Media Solutions Insider News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 14:30:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68771c606b45ce0e96674d527e32b710a1ff0827.png" alt="" title="">]]></description>
+            <link>undefinedmedia-solutions-insider/index.html</link>
+            <guid isPermaLink="false">d40a388c-a70b-404b-89be-208e11827d0a</guid>
+            <pubDate>Tue, 12 Apr 2016 14:30:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
