@@ -1,0 +1,28 @@
+name: Media Solutions Insider News
+favicon: null
+layout_spectrum: 0.051532953046262264
+typography_spectrum: 0.23355826316401362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9391758551355451
+  lightness: 0.17689107498154044
+  saturation: 0.402677291771397
+  rhythmicContrast: 0.08391640591435134
+purpose: []
